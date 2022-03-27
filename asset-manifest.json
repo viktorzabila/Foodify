@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Foodify/static/js/main.a52d73c1.chunk.js",
+    "main.js.map": "/Foodify/static/js/main.a52d73c1.chunk.js.map",
+    "runtime-main.js": "/Foodify/static/js/runtime-main.994e6125.js",
+    "runtime-main.js.map": "/Foodify/static/js/runtime-main.994e6125.js.map",
+    "static/js/2.dbe1c65d.chunk.js": "/Foodify/static/js/2.dbe1c65d.chunk.js",
+    "static/js/2.dbe1c65d.chunk.js.map": "/Foodify/static/js/2.dbe1c65d.chunk.js.map",
+    "index.html": "/Foodify/index.html",
+    "static/js/2.dbe1c65d.chunk.js.LICENSE.txt": "/Foodify/static/js/2.dbe1c65d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.994e6125.js",
+    "static/js/2.dbe1c65d.chunk.js",
+    "static/js/main.a52d73c1.chunk.js"
+  ]
+}
